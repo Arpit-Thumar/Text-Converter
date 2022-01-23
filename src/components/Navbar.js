@@ -27,11 +27,11 @@ export default function Navbar(props) {
                 {props.home} <span className="sr-only"></span>
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" href="/">
                 About
               </a>
-            </li>
+            </li> */}
             </ul>
 
         {/* <form className="d-flex">
